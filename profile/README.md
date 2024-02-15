@@ -1,4 +1,4 @@
-![TechFellow](https://github.com/Tech-Fellow/.github/assets/63754896/52e5cb2b-34af-4b5c-aa6b-0f3828a6f2ad)
+![Frame 3](https://github.com/Tech-Fellow/tech-events/assets/63754896/30199b41-e2e0-49b9-aaf6-1ca00138eb3c)
 
 # Bem Vindo ao Fellowship Tech
 
