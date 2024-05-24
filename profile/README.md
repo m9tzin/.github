@@ -1,7 +1,6 @@
 ![Logo](https://github.com/Tech-Fellow/tech-events/assets/63754896/2fa541d1-4ae5-4f81-aefa-f45934d3a1ec)
 
-# Bem Vindo ao Fellowship Tech
-
+# Bem Vindo ao Tech Fellow
 Programa da Fundação Estudar voltado para jovens brasileiros interessados em utilizar a tecnologia como meio de liderar transformações em diversos setores. Os participantes selecionados tem acesso a benefícios como bolsas de estudo, mentoria com líderes de startups e profissionais de destaque na área de tecnologia, conexão com a rede da Fundação Estudar, oportunidades em empresas parceiras, apoio personalizado para desenvolvimento de projetos, networking com possíveis investidores, preparação para processos seletivos e interação com especialistas. 
 
 ## Como se tornar um Tech Fellow?
