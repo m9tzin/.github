@@ -1,4 +1,4 @@
-![Logo](https://github.com/Tech-Fellow/tech-events/assets/63754896/2fa541d1-4ae5-4f81-aefa-f45934d3a1ec)
+![Logo](/assets/tech-fellow.png)
 
 # Bem Vindo ao Fellowship Tech
 
